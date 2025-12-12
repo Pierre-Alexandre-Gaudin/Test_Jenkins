@@ -1,5 +1,5 @@
 all:
-	@echo "Je compile..."
+	@echo "Je compile...ceci est un ajout de test"
 
 clean:
 	@echo "Je nettoie..."
